@@ -1,5 +1,5 @@
 # Teneo Bot
-[Click here for old readme](https://github.com/recitativonika/teneo-bot/blob/main/readme-old.md)
+
 ## Description
 Teneo bot is a simple tool designed to automate the node interaction.
 
@@ -71,6 +71,6 @@ This script only for testing purpose, using this script might violates ToS and m
 Extension link : https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm
 
 My reff code if you want to use :) : 
-```bash
-03WkM
+```Bash
+ HIuMT
 ```
